@@ -1,14 +1,8 @@
-Welcome to Kids w/ Tokens 🌟, a vibrant community dedicated to bringing your AI ideas to life 🚀. 
+Welcome to Kids with Tokens 🌟, an open-source community turning any interesting AI idea into reality 💭. Our community includes professional AI engineers 👩‍💻, research scientists 📚, and AI enthusiasts eager to integrate AI into their daily lives.
 
-Our mission is to nurture a collaborative space where members can transform their innovative research ideas and unique side projects into tangible achievements.
+Our community shares computing resources (GPUs) 💻, deep AI knowledge 🧠, and guidance from top university professors 👨‍🏫, to transform every spark of AI enthusiasm into thorough research 🔬 and meaningful applications 🚀.
 
-We support the development of research ideas 💡, side projects 🛠️, paper publication 📄, and the transformation of lab demos into real-world applications 🤖. 
-
-Our resources include sufficient GPUs, connections to top-tier universities, and assistance in project engineering and academic publish. 
-
-Our community is open and free for anyone passionate about AI ❤️. Join us and be part of a collaborative and innovative family! 🤝
-
-Groundbreaking ideas need the right environment to flourish, and we're committed to providing that environment.
+Our community welcomes everyone passionate about AI ❤️. Join us to be part of a collaborative, innovative family! 🤝
 
 <!--
 
