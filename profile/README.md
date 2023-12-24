@@ -6,7 +6,7 @@ Our community shares computing resources (GPUs) 💻, deep AI knowledge 🧠, an
 
 Our community welcomes everyone passionate about AI ❤️. Join us to be part of a collaborative, innovative family! 🤝
 
-Our Discord Channel: https://discord.gg/EqbgSPEX
+Our [Discord](https://discord.gg/EqbgSPEX)
 
 <!--
 
