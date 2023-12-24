@@ -1,6 +1,6 @@
 Welcome to Kids with Tokens 🌟, an open-source community turning any interesting AI idea into reality 💭.
 
-Our community includes professional AI engineers 👩‍💻, research scientists 📚, and AI enthusiasts eager to integrate AI into their daily lives.
+Our community includes professional AI engineers 👩‍💻, research scientists 🧑‍🔬, and AI enthusiasts eager to integrate AI into their daily lives.
 
 Our community shares computing resources (GPUs) 💻, deep AI knowledge 🧠, and guidance from top university professors 👨‍🏫, to transform every spark of AI enthusiasm into thorough research 🔬 and meaningful applications 🚀.
 
