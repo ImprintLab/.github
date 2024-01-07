@@ -15,6 +15,7 @@ Our community welcomes everyone passionate about AI ❤️. Join us on [Discord]
   <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="100" height="100" />
   <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="100" height="100" />
   <img src="https://github.com/KidsWithTokens/.github/blob/main/nus_logo_full-horizontal.jpg" width="170" height="110" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/discord-logo.png" width="90" height="90" />
 </p>
 
 <!--
