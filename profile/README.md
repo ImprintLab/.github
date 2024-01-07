@@ -4,7 +4,7 @@ Kids w/ Tokens is remote, flexible, open-source AI lab open to the public to joi
 
 Our community includes professional AI engineers 👩‍💻, research scientists 🧑‍🔬, and AI enthusiasts eager to integrate AI into their daily lives.
 
-We support people with GPUs 💻, deep AI knowledge 🧠, and guidance from top university professors 👨‍🏫, to transform every spark of AI enthusiasm into thorough research 🔬 and meaningful applications 🚀.
+We are funding early-stage AI ideas with GPUs 💻, human recources 🧠, and working/learning opportunities from top-university labs 👨‍🏫, to transform every spark of enthusiasm into impactful research 🔬 and applications 🚀.
 
 Our community welcomes everyone passionate about AI ❤️. Join us to be part of a collaborative, innovative family! 🤝
 
