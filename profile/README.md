@@ -6,7 +6,7 @@ Our community includes professional AI engineers 👩‍💻, research scientist
 
 We are funding early-stage AI ideas with GPUs 💻, human recources 🧠, and working/learning opportunities from top-university labs 👨‍🏫, to transform every spark of enthusiasm into impactful research 🔬 and applications 🚀.
 
-Our community welcomes everyone passionate about AI ❤️. Join us on [Discord](https://discord.gg/EqbgSPEX) to be part of a collaborative, innovative family! 🤝
+Our community welcomes everyone passionate about AI ❤️. Join us on [Discord](https://discord.gg/4ReCQaDe) to be part of a collaborative, innovative family! 🤝
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
