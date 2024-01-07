@@ -12,9 +12,9 @@ Our community welcomes everyone passionate about AI ❤️. Join us on [Discord]
 
 ### closely cooperating with:
 <p align="left">
-  <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="160" height="160" />
-  <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="160" height="160" />
-  <img src="https://github.com/KidsWithTokens/.github/blob/main/nus_logo_full-horizontal.jpg" width="230" height="150" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="100" height="100" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="100" height="100" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/nus_logo_full-horizontal.jpg" width="170" height="110" />
 </p>
 
 <!--
