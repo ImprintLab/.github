@@ -8,6 +8,15 @@ We are funding early-stage AI ideas with GPUs 💻, human recources 🧠, and wo
 
 Our community welcomes everyone passionate about AI ❤️. Join us on [Discord](https://discord.gg/EqbgSPEX) to be part of a collaborative, innovative family! 🤝
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### closely cooperating with:
+<p align="left">
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="160" height="160" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="160" height="160" />
+  <img src="https://github.com/KidsWithTokens/.github/blob/main/nus_logo_full-horizontal.jpg" width="230" height="150" />
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
