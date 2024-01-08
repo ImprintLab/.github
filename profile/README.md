@@ -10,7 +10,7 @@ Our community welcomes everyone passionate about AI ❤️. Join us on [Discord]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### cooperating closely with:
+### closely cooperating with:
 <p align="left">
   <img src="https://github.com/KidsWithTokens/.github/blob/main/university-of-oxford-logo-1.png.webp" width="100" height="100" />
   <img src="https://github.com/KidsWithTokens/.github/blob/main/cmu-logo.png" width="100" height="100" />
