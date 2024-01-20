@@ -1,4 +1,4 @@
-Welcome to Kids with Tokens 🌟! Here, we transform exciting AI ideas into impactful applications and businesses 💭.
+Welcome to Kids with Tokens 🌟! Here, we transform innovative AI ideas into impactful applications and businesses 💭.
 
 Kids w/ Tokens is a remote, open-source AI lab open to the public to join. We do research and savour it intrinsically. write code, build together, enjoy the lifestyle & have fun.
 
