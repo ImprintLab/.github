@@ -1,12 +1,6 @@
-Welcome to Kids with Tokens 🌟! Here, we transform innovative AI ideas into impactful applications and businesses 💭.
+Medicine Token is a non-profit organization building open-source Generalist Medical AI. 
 
-Kids w/ Tokens is a remote, open-source AI lab open to the public to join. We do research and savour it intrinsically. write code, build together, enjoy the lifestyle & have fun.
-
-We're a diverse group of AI engineers 👩‍💻, research scientists 🧑‍🔬, and AI enthusiasts, all sharing a common passion for integrating AI into our daily lives.
-
-Our mission? To support early-stage AI ideas by providing GPUs 💻, expert human resources 🧠, and unique opportunities for learning and working with top university labs 👨‍🏫. We aim to turn each spark of enthusiasm into groundbreaking research 🔬 or innovative applications 🚀.
-
-Our community welcomes everyone passionate about AI ❤️. Join us on [Discord](https://discord.gg/4ReCQaDe) to be part of a collaborative, innovative family! 🤝
+Join us on [Discord](https://discord.gg/4ReCQaDe)! 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
