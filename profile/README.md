@@ -1,4 +1,4 @@
-Medicine Token is a non-profit organization building open-source Generalist Medical AI. 
+We are building open-source Generalist Medical AI. 
 
 Join us on [Discord](https://discord.gg/4ReCQaDe)! 
 
