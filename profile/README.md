@@ -1,4 +1,4 @@
-We are building open-source Generalist Medical AI 🧬  
+We are building AI to understand How the Human Body Works 🧬  
 
 Join us on [Discord](https://discord.gg/4ReCQaDe)! 
 
