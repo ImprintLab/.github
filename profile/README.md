@@ -1,6 +1,6 @@
 We are building L4 Medical Intelligence 
 
-Join us on [Discord](https://discord.gg/4ReCQaDe)! 
+Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
