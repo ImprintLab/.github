@@ -1,4 +1,4 @@
-We are building superintelligence that outperforms human doctors
+We are building superintelligence smarter than doctors
 
 Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
 
