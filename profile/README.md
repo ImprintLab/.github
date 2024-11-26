@@ -1,4 +1,4 @@
-We are building L4 Medical Intelligence 
+We are building superintelligence that outperforms human doctors
 
 Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
 
