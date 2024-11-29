@@ -1,5 +1,7 @@
 We are building superintelligence smarter than doctors
 
+Lead by @WuJunde
+
 Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
 
 
