@@ -1,4 +1,4 @@
-We are building superintelligence outperforms doctors...in a serious way
+We are building superintelligence outperforms human doctors......in a serious way
 
 Lead by [@WuJunde](https://github.com/WuJunde)
 
