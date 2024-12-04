@@ -8,8 +8,6 @@ AI is far better than humans at these tasks and makes fewer mistakes. The sooner
 
 At Super Medical Intelligence Lab, we’re creating safe, cost-efficient, and multimodal Medical AI outperforms humans. 
 
-Lead by [@WuJunde](https://github.com/WuJunde)
-
 Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
 
 
