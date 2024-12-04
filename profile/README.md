@@ -1,4 +1,10 @@
-We are building superintelligence outperforms human doctors......in a serious way
+It would be great for humanity if AI replaced doctors ASAP.
+
+Human doctors are forced to memorize a lot of information, are relatively poor at retrieving it, and frequently make mistakes.
+
+In addition, the system is completely rigged to restrict supply.
+
+AI is far better than humans at these tasks and makes fewer mistakes. The sooner we can adopt AI in healthcare, the better.
 
 Lead by [@WuJunde](https://github.com/WuJunde)
 
