@@ -6,6 +6,8 @@ In addition, the system is completely rigged to restrict supply.
 
 AI is far better than humans at these tasks and makes fewer mistakes. The sooner we can adopt AI in healthcare, the better.
 
+At Super Medical Intelligence Lab, we’re creating safe, cost-efficient, and multimodal Medical AI outperforms humans. 
+
 Lead by [@WuJunde](https://github.com/WuJunde)
 
 Join us on [Discord](https://discord.gg/CQQWtaQgRS)! 
