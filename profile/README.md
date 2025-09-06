@@ -1,4 +1,4 @@
-At Imprint Lab we explore modern anatomy through computation.
+Imprint Research studies modern anatomy through computation.
 
 We use ML and AI to reconstruct functional organs and tissues in code.
 
