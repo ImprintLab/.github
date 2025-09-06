@@ -1,8 +1,8 @@
 Imprint Lab advances modern anatomy through computation.
 
-We use machine learning to measure, model, and reconstruct functional human organs and tissues in code.
+We use machine learning to reconstruct functional human organs/tissues in code.
 
-Our goal is a human-body simulator that reacts like the real thing to drugs, surgery, and biochemical responses, and can serve as the base software for cyberorgans.
+The goal is a human-body simulator that reacts like the real thing to drugs, surgery, and biochemical responses, and can serve as the base software for cyberorgans.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
