@@ -1,8 +1,8 @@
 Imprint Research studies modern anatomy through computation.
 
-We use ML and AI to reconstruct functional human organs and tissues in code.
+We use machine learning to build functional human organs and tissues in code.
 
-It's for building a human-body simulator that reacts like the real thing to drugs and surgery, and serves as the core software for cybernetic organs.
+The goal is a human-body simulator that reacts like the real thing to drugs and surgery, and serves as the core software for cybernetic organs.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
