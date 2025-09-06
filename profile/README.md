@@ -1,4 +1,4 @@
-Imprint Research advances modern anatomy through computation.
+Imprint Lab advances modern anatomy through computation.
 
 We use machine learning to measure, model, and reconstruct functional human organs and tissues in code.
 
