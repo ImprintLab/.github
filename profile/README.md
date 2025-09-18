@@ -1,8 +1,12 @@
+<img src="https://github.com/KidsWithTokens/.github/blob/main/cover_imprint.png" width="1600" height="800" />
+
 Imprint Lab looks at anatomy through computation.
 
 We use ML to precisely measure and rebuild human organs / tissues in a digital space, turning them into code and runs.
 
 What emerges is a body simulator that reacts like the real thing to drugs, surgery, and biochem, as a base layer for cyberorgans.
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
