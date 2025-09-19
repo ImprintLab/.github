@@ -1,4 +1,4 @@
-<img src="https://github.com/KidsWithTokens/.github/blob/main/cover_imprint.png" width="1600" height="800" />
+<img src="https://github.com/KidsWithTokens/.github/blob/main/imprint_group.png" width="800" height="500" />
 
 Imprint Lab looks at anatomy through computation.
 
